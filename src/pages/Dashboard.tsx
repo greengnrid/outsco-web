@@ -750,37 +750,16 @@
                     </div>
                   </div>
                   <div
-                    className="text-[13px]/[20px] box-border w-[472px] h-[40.01px] absolute left-[16.31px] top-[97.32px] text-[#d1c1d4] font-['Plus_Jakarta_Sans',system-ui,sans-serif] font-normal text-left [z-index:2]"
+                    className="absolute left-[16px] top-[88px] w-[472px] h-[440px] [z-index:2]"
                   >
-                    Klaim Capaian Unggulan (CU) periode berjalan. Verifikasi PIC berlangsung tiap
-                    tanggal 8-9.
-                  </div>
-                  <div
-                    className="box-border w-[472px] h-fit absolute left-[16px] top-[479.18px] flex flex-row gap-[8px] p-[4px_0px_0px_0px] justify-start items-center [z-index:3]"
-                  >
-                    <div
-                      className="box-border [flex:1_1_0] h-[39.98px] [box-shadow:0px_10px_12px_0px_#0000001a,_0px_4px_2px_0px_#0000001a] flex flex-row gap-[5.98px] p-[8px_12px] justify-center items-center [background-image:linear-gradient(90deg,_#7605aa_0%,_#b807e6_100%)] bg-no-repeat bg-[length:100%_100%] rounded-[9999px]"
+                    <iframe
+                      src="https://docs.google.com/forms/d/e/1FAIpQLSeUr03__e0ULkgvDf2K8TC-_bKa0WIIW5Nxo7Onh-4BA95QSg/viewform?embedded=true"
+                      className="w-full h-full border-0 rounded-[12px]"
+                      allowFullScreen
+                      loading="lazy"
                     >
-                      <div
-                        className="text-[16px]/[24px] box-border text-[#e0a2ff] font-['Material_Symbols_Outlined',system-ui,sans-serif] font-normal text-center [white-space:nowrap]"
-                      >
-                        post_add
-                      </div>
-                      <div
-                        className="text-[12px]/[16px] box-border text-[#e0a2ff] font-['Plus_Jakarta_Sans',system-ui,sans-serif] font-bold tracking-[0.48px] text-center [white-space:nowrap]"
-                      >
-                        Lapor Prestasi Baru
-                      </div>
-                    </div>
-                    <div
-                      className="box-border w-fit shrink-0 h-[41.82px] flex flex-col gap-0 p-[8px] justify-start items-start bg-[#352242] rounded-[9999px]"
-                    >
-                      <div
-                        className="text-[16px]/[24px] box-border text-[#d1c1d4] font-['Material_Symbols_Outlined',system-ui,sans-serif] font-normal text-center [white-space:nowrap]"
-                      >
-                        history
-                      </div>
-                    </div>
+                      Memuat formulir...
+                    </iframe>
                   </div>
                 </div>
               </div>
